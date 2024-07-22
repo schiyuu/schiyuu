@@ -3,6 +3,3 @@ I'm a full stack developer, currently working on a project at Pumena Studio.
 
 My project:
 - www.pumena.com
-
-My Portfolio:
-- https://joaoayu.github.io/Portfolio/
