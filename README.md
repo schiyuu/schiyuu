@@ -2,6 +2,6 @@
 I'm a full-stack developer
 ###### <a href="https://joaoayu.github.io/Portfolio/">Feel free to explore my projects!</a>
 <hr>
-UX Designer | Full-Stack | Data analyst
+UX Designer | Full-Stack Developer | Data analyst
 
 
