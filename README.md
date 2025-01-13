@@ -1,3 +1,3 @@
 <h2 align="center">👋 Hey! I'm João.</h2>
-- Unity Developer & 3D Artist
+- Unity Developer & 3D Artist<br>
 Discord: schiyu
